@@ -50,9 +50,6 @@ Title
   CPU: Ryzen 7
   GPU: Radeon vega 7
   ```
-### Hyper parameters
-```
-```
 ## References
 - [code-1](https://github.com/JuliXnCXm/)
   
